@@ -1,0 +1,407 @@
+[
+  {
+    "siglas": "UCV",
+    "nombre": "Universidad César Vallejo",
+    "tipo": "Privada",
+    "region": "Nacional (Lima, Trujillo, Piura, Chiclayo, Chimbote, Tarapoto)",
+    "enlace_docente": "https://my.ucv.edu.pe/Convocatoria/",
+    "portal_nombre": "Sistema Oficial de Convocatoria Docente UCV",
+    "niveles": "Pregrado, Posgrado y Programa SUBE (Adultos)"
+  },
+  {
+    "siglas": "UPN",
+    "nombre": "Universidad Privada del Norte",
+    "tipo": "Privada",
+    "region": "Lima, La Libertad (Trujillo), Cajamarca",
+    "enlace_docente": "https://pe.computrabajo.com/trabajo-de-docente-upn",
+    "portal_nombre": "Bolsa de Selección Docente UPN (Computrabajo / Laureate)",
+    "niveles": "Pregrado, Working Adult y Posgrado"
+  },
+  {
+    "siglas": "AUTONOMA",
+    "nombre": "Universidad Autónoma del Perú",
+    "tipo": "Privada",
+    "region": "Lima (Lima Sur - Villa El Salvador)",
+    "enlace_docente": "https://virtual.autonoma.edu.pe/Externa/Convocatorias/ConvocatoriaDocente.aspx",
+    "portal_nombre": "Módulo Oficial de Convocatoria Docente Autónoma",
+    "niveles": "Pregrado, Carreras para Gente que Trabaja y Posgrado"
+  },
+  {
+    "siglas": "UNMSM",
+    "nombre": "Universidad Nacional Mayor de San Marcos",
+    "tipo": "Pública",
+    "region": "Lima (Cercado de Lima)",
+    "enlace_docente": "https://www.convocatoriasdetrabajo.com/buscar-empleo.php?palabra=unmsm",
+    "portal_nombre": "Talento Perú / Convocatorias Docentes UNMSM",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UNI",
+    "nombre": "Universidad Nacional de Ingeniería",
+    "tipo": "Pública",
+    "region": "Lima (Rímac)",
+    "enlace_docente": "https://www.convocatoriasdetrabajo.com/buscar-empleo.php?palabra=uni",
+    "portal_nombre": "Talento Perú / Concursos Docentes UNI",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "PUCP",
+    "nombre": "Pontificia Universidad Católica del Perú",
+    "tipo": "Privada",
+    "region": "Lima (San Miguel)",
+    "enlace_docente": "https://profesorado.pucp.edu.pe/convocatorias/presentacion/",
+    "portal_nombre": "Portal del Profesorado PUCP (Bases Oficiales)",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "CENTRUM",
+    "nombre": "CENTRUM PUCP Graduate Business School",
+    "tipo": "Privada",
+    "region": "Lima (Surco)",
+    "enlace_docente": "https://centrum.pucp.edu.pe/",
+    "portal_nombre": "Escuela de Posgrado CENTRUM",
+    "niveles": "Posgrado MBA & Maestrías Especializadas"
+  },
+  {
+    "siglas": "ULIMA",
+    "nombre": "Universidad de Lima",
+    "tipo": "Privada",
+    "region": "Lima (Surco)",
+    "enlace_docente": "https://www.bumeran.com.pe/perfiles/empresa_universidad-de-lima_10022416.html",
+    "portal_nombre": "Bolsa Oficial Ulima en Bumeran",
+    "niveles": "Pregrado y Escuela de Posgrado"
+  },
+  {
+    "siglas": "USIL",
+    "nombre": "Universidad San Ignacio de Loyola",
+    "tipo": "Privada",
+    "region": "Lima (La Molina / San Isidro)",
+    "enlace_docente": "https://usil.hiringroom.com/jobs",
+    "portal_nombre": "HiringRoom USIL (Portal Oficial Selección)",
+    "niveles": "Pregrado, CPEL (Adultos) y Posgrado"
+  },
+  {
+    "siglas": "UPC",
+    "nombre": "Universidad Peruana de Ciencias Aplicadas",
+    "tipo": "Privada",
+    "region": "Lima (San Isidro, Monterrico, San Miguel, Chorrillos)",
+    "enlace_docente": "https://www.bumeran.com.pe/empleos-busqueda-docente-upc.html",
+    "portal_nombre": "Bolsa Docente UPC en Bumeran",
+    "niveles": "Pregrado, EPE (Ejecutivos) y Escuela de Posgrado"
+  },
+  {
+    "siglas": "UTP",
+    "nombre": "Universidad Tecnológica del Perú",
+    "tipo": "Privada",
+    "region": "Nacional (Lima, Arequipa, Chiclayo, Chimbote, Huancayo, Piura, Ica, Trujillo)",
+    "enlace_docente": "https://pe.computrabajo.com/empleos-de-docente-en-universidad-tecnologica-del-peru",
+    "portal_nombre": "Bolsa Docente UTP (Grupo Intercorp)",
+    "niveles": "Pregrado, CGT (Adultos) y Posgrado"
+  },
+  {
+    "siglas": "UP",
+    "nombre": "Universidad del Pacífico / Pacífico Business School",
+    "tipo": "Privada",
+    "region": "Lima (Jesús María)",
+    "enlace_docente": "https://pbs.edu.pe/",
+    "portal_nombre": "Escuela de Posgrado PBS - UP",
+    "niveles": "Pregrado y Maestrías de Posgrado"
+  },
+  {
+    "siglas": "ESAN",
+    "nombre": "Universidad ESAN / Graduate School of Business",
+    "tipo": "Privada",
+    "region": "Lima (Surco)",
+    "enlace_docente": "https://www.esan.edu.pe/maestrias",
+    "portal_nombre": "Portal de Maestrías y Cátedra ESAN",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "CONTINENTAL",
+    "nombre": "Universidad Continental",
+    "tipo": "Privada",
+    "region": "Nacional (Huancayo, Lima, Arequipa, Cusco y 100% Virtual)",
+    "enlace_docente": "https://posgrado.ucontinental.edu.pe/",
+    "portal_nombre": "Escuela de Posgrado y Modalidad a Distancia Continental",
+    "niveles": "Pregrado, Gente que Trabaja y Posgrado Virtual"
+  },
+  {
+    "siglas": "UNALM",
+    "nombre": "Universidad Nacional Agraria La Molina",
+    "tipo": "Pública",
+    "region": "Lima (La Molina)",
+    "enlace_docente": "https://www.convocatoriasdetrabajo.com/buscar-empleo.php?palabra=agraria",
+    "portal_nombre": "Talento Perú / Convocatorias UNALM",
+    "niveles": "Pregrado y Escuela de Posgrado"
+  },
+  {
+    "siglas": "UNFV",
+    "nombre": "Universidad Nacional Federico Villarreal",
+    "tipo": "Pública",
+    "region": "Lima (Cercado de Lima / San Miguel)",
+    "enlace_docente": "https://www.convocatoriasdetrabajo.com/buscar-empleo.php?palabra=unfv",
+    "portal_nombre": "Talento Perú / Convocatorias UNFV",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UNAC",
+    "nombre": "Universidad Nacional del Callao",
+    "tipo": "Pública",
+    "region": "Callao (Bellavista)",
+    "enlace_docente": "https://www.convocatoriasdetrabajo.com/buscar-empleo.php?palabra=callao",
+    "portal_nombre": "Talento Perú / Convocatorias UNAC",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UNSA",
+    "nombre": "Universidad Nacional de San Agustín",
+    "tipo": "Pública",
+    "region": "Arequipa",
+    "enlace_docente": "https://www.convocatoriasdetrabajo.com/buscar-empleo.php?palabra=unsa",
+    "portal_nombre": "Talento Perú / Concursos Docentes UNSA",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UNT",
+    "nombre": "Universidad Nacional de Trujillo",
+    "tipo": "Pública",
+    "region": "La Libertad (Trujillo)",
+    "enlace_docente": "https://www.convocatoriasdetrabajo.com/buscar-empleo.php?palabra=trujillo",
+    "portal_nombre": "Talento Perú / Concursos Docentes UNT",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UNCP",
+    "nombre": "Universidad Nacional del Centro del Perú",
+    "tipo": "Pública",
+    "region": "Junín (Huancayo)",
+    "enlace_docente": "https://www.convocatoriasdetrabajo.com/buscar-empleo.php?palabra=centro+del+peru",
+    "portal_nombre": "Talento Perú / Convocatorias UNCP",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UNSAAC",
+    "nombre": "Universidad Nacional de San Antonio Abad del Cusco",
+    "tipo": "Pública",
+    "region": "Cusco",
+    "enlace_docente": "https://www.convocatoriasdetrabajo.com/buscar-empleo.php?palabra=unsaac",
+    "portal_nombre": "Talento Perú / Convocatorias UNSAAC",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UNA",
+    "nombre": "Universidad Nacional del Altiplano",
+    "tipo": "Pública",
+    "region": "Puno",
+    "enlace_docente": "https://www.convocatoriasdetrabajo.com/buscar-empleo.php?palabra=altiplano",
+    "portal_nombre": "Talento Perú / Concursos UNA Puno",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UNSCH",
+    "nombre": "Universidad Nacional de San Cristóbal de Huamanga",
+    "tipo": "Pública",
+    "region": "Ayacucho",
+    "enlace_docente": "https://www.convocatoriasdetrabajo.com/buscar-empleo.php?palabra=huamanga",
+    "portal_nombre": "Talento Perú / Concursos UNSCH",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UNPRG",
+    "nombre": "Universidad Nacional Pedro Ruiz Gallo",
+    "tipo": "Pública",
+    "region": "Lambayeque (Chiclayo / Lambayeque)",
+    "enlace_docente": "https://www.convocatoriasdetrabajo.com/buscar-empleo.php?palabra=pedro+ruiz+gallo",
+    "portal_nombre": "Talento Perú / Concursos UNPRG",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UNAP",
+    "nombre": "Universidad Nacional de la Amazonía Peruana",
+    "tipo": "Pública",
+    "region": "Loreto (Iquitos)",
+    "enlace_docente": "https://www.convocatoriasdetrabajo.com/buscar-empleo.php?palabra=amazonia+peruana",
+    "portal_nombre": "Talento Perú / Concursos UNAP",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UNASAM",
+    "nombre": "Universidad Nacional Santiago Antúnez de Mayolo",
+    "tipo": "Pública",
+    "region": "Ancash (Huaraz)",
+    "enlace_docente": "https://www.convocatoriasdetrabajo.com/buscar-empleo.php?palabra=unasam",
+    "portal_nombre": "Talento Perú / Concursos UNASAM",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UNP",
+    "nombre": "Universidad Nacional de Piura",
+    "tipo": "Pública",
+    "region": "Piura",
+    "enlace_docente": "https://www.convocatoriasdetrabajo.com/buscar-empleo.php?palabra=piura",
+    "portal_nombre": "Talento Perú / Concursos UNP",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UNICA",
+    "nombre": "Universidad Nacional San Luis Gonzaga",
+    "tipo": "Pública",
+    "region": "Ica",
+    "enlace_docente": "https://www.convocatoriasdetrabajo.com/buscar-empleo.php?palabra=san+luis+gonzaga",
+    "portal_nombre": "Talento Perú / Concursos UNICA",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UNJBG",
+    "nombre": "Universidad Nacional Jorge Basadre Grohmann",
+    "tipo": "Pública",
+    "region": "Tacna",
+    "enlace_docente": "https://www.convocatoriasdetrabajo.com/buscar-empleo.php?palabra=jorge+basadre",
+    "portal_nombre": "Talento Perú / Concursos UNJBG",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UNHEVAL",
+    "nombre": "Universidad Nacional Hermilio Valdizán",
+    "tipo": "Pública",
+    "region": "Huánuco",
+    "enlace_docente": "https://www.convocatoriasdetrabajo.com/buscar-empleo.php?palabra=hermilio+valdizan",
+    "portal_nombre": "Talento Perú / Concursos UNHEVAL",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UPCH",
+    "nombre": "Universidad Peruana Cayetano Heredia",
+    "tipo": "Privada",
+    "region": "Lima (San Martín de Porres / Miraflores)",
+    "enlace_docente": "https://posgrado.cayetano.edu.pe/",
+    "portal_nombre": "Escuela de Posgrado Cayetano Heredia",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UTEC",
+    "nombre": "Universidad de Ingeniería y Tecnología",
+    "tipo": "Privada",
+    "region": "Lima (Barranco)",
+    "enlace_docente": "https://utec.edu.pe/",
+    "portal_nombre": "Portal Institucional UTEC Posgrado",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UCSUR",
+    "nombre": "Universidad Científica del Sur",
+    "tipo": "Privada",
+    "region": "Lima (Chorrillos, Ate, Los Olivos)",
+    "enlace_docente": "https://cientifica.edu.pe/",
+    "portal_nombre": "Portal Científica del Sur / Educa_d",
+    "niveles": "Pregrado, Carreras Ejecutivas y Posgrado"
+  },
+  {
+    "siglas": "USMP",
+    "nombre": "Universidad de San Martín de Porres",
+    "tipo": "Privada",
+    "region": "Lima (Santa Anita, San Isidro), Chiclayo, Arequipa y USMP Virtual",
+    "enlace_docente": "https://www.bumeran.com.pe/empleos-busqueda-docente-san-martin-de-porres.html",
+    "portal_nombre": "Bolsa de Selección Docente USMP",
+    "niveles": "Pregrado, Posgrado y USMP Virtual"
+  },
+  {
+    "siglas": "URP",
+    "nombre": "Universidad Ricardo Palma",
+    "tipo": "Privada",
+    "region": "Lima (Surco)",
+    "enlace_docente": "https://www.bumeran.com.pe/empleos-busqueda-docente-ricardo-palma.html",
+    "portal_nombre": "Bolsa de Selección Docente URP",
+    "niveles": "Pregrado y Escuela de Posgrado"
+  },
+  {
+    "siglas": "UDEP",
+    "nombre": "Universidad de Piura",
+    "tipo": "Privada",
+    "region": "Piura y Lima (Miraflores - PAD Escuela de Dirección)",
+    "enlace_docente": "https://pad.edu/",
+    "portal_nombre": "PAD Escuela de Dirección / UDEP",
+    "niveles": "Pregrado y Alta Dirección Posgrado"
+  },
+  {
+    "siglas": "UPAO",
+    "nombre": "Universidad Privada Antenor Orrego",
+    "tipo": "Privada",
+    "region": "La Libertad (Trujillo) y Piura",
+    "enlace_docente": "https://www.bumeran.com.pe/empleos-busqueda-docente-upao.html",
+    "portal_nombre": "Bolsa de Selección Docente UPAO",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UCSM",
+    "nombre": "Universidad Católica de Santa María",
+    "tipo": "Privada",
+    "region": "Arequipa",
+    "enlace_docente": "https://www.bumeran.com.pe/empleos-busqueda-docente-santa-maria-arequipa.html",
+    "portal_nombre": "Bolsa Docente UCSM Arequipa",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UCSP",
+    "nombre": "Universidad Católica San Pablo",
+    "tipo": "Privada",
+    "region": "Arequipa",
+    "enlace_docente": "https://www.bumeran.com.pe/empleos-busqueda-docente-san-pablo.html",
+    "portal_nombre": "Bolsa de Docentes UCSP",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "USS",
+    "nombre": "Universidad Señor de Sipán",
+    "tipo": "Privada",
+    "region": "Lambayeque (Chiclayo)",
+    "enlace_docente": "https://pe.computrabajo.com/trabajo-de-docente-sipan",
+    "portal_nombre": "Bolsa Docente USS",
+    "niveles": "Pregrado, Posgrado y Modalidad a Distancia"
+  },
+  {
+    "siglas": "UPLA",
+    "nombre": "Universidad Peruana Los Andes",
+    "tipo": "Privada",
+    "region": "Junín (Huancayo, Chanchamayo, Satipo)",
+    "enlace_docente": "https://pe.computrabajo.com/trabajo-de-docente-los-andes-huancayo",
+    "portal_nombre": "Bolsa Docente UPLA",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UPT",
+    "nombre": "Universidad Privada de Tacna",
+    "tipo": "Privada",
+    "region": "Tacna",
+    "enlace_docente": "https://pe.computrabajo.com/trabajo-de-docente-privada-de-tacna",
+    "portal_nombre": "Bolsa Docente UPT",
+    "niveles": "Pregrado y Posgrado"
+  },
+  {
+    "siglas": "UCH",
+    "nombre": "Universidad de Ciencias y Humanidades",
+    "tipo": "Privada",
+    "region": "Lima (Los Olivos)",
+    "enlace_docente": "https://pe.computrabajo.com/ofertas-de-trabajo/?q=Universidad%20de%20Ciencias%20y%20Humanidades",
+    "portal_nombre": "Bolsa Docente UCH",
+    "niveles": "Pregrado y Educación Continua"
+  },
+  {
+    "siglas": "WIENER",
+    "nombre": "Universidad Norbert Wiener",
+    "tipo": "Privada",
+    "region": "Lima (Lince)",
+    "enlace_docente": "https://www.bumeran.com.pe/empleos-busqueda-docente-norbert-wiener.html",
+    "portal_nombre": "Bolsa Docente Universidad Wiener",
+    "niveles": "Pregrado, EPE y Posgrado"
+  },
+  {
+    "siglas": "UPSJB",
+    "nombre": "Universidad Privada San Juan Bautista",
+    "tipo": "Privada",
+    "region": "Lima (Chorrillos, San Borja), Ica, Chincha",
+    "enlace_docente": "https://www.bumeran.com.pe/empleos-busqueda-docente-san-juan-bautista.html",
+    "portal_nombre": "Bolsa Docente San Juan Bautista",
+    "niveles": "Pregrado y Escuela de Posgrado"
+  }
+]
